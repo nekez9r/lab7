@@ -1,4 +1,6 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<style>
     body {
         font-family: Arial, sans-serif;
         padding: 20px;
