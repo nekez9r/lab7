@@ -48,7 +48,6 @@
         <h2><i class="fas fa-phone"></i> Связь со мной</h2>
         <p>Телефон: +7 666 777 52 76</p>
         <p>Почта: 2005@gmail.com</p>
-        <p>Telegram: @neki</p>
     </div>
     <div class="right-column">
         <h2><i class="fas fa-graduation-cap"></i> Образование</h2>
